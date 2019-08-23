@@ -1,3 +1,3 @@
-class Show < ActiveRecord::Base[5.2]
+class Show < ActiveRecord::Base
 
 end
